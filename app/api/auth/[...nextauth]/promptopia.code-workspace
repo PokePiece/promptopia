@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "promptopia",
+			"path": "../../../.."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../../../../Downloads/assets"
+		}
+	],
+	"settings": {}
+}
